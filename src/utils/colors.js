@@ -1,0 +1,6 @@
+export default{
+    PRIMARY_COLOR:'#0098D3',
+    PRIMARY_COLOR_DARK:'#006691',
+    RESULTADOS_COLOR: '#651BCE',
+    BOTON_COLOR: '#1D0047'
+}
